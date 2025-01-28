@@ -1,5 +1,4 @@
 import { Container } from 'react-bootstrap';
-import avatar from './images/Avatar.png';
 
 const AboutMe = () => {
 	const styles = {
