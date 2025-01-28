@@ -33,23 +33,23 @@ const Portfolio = () => {
 
 	return (
 		<>
-			<h2 style={styles.heading}>Portfolio</h2>
-			<Container>
-				<Row>
-					{portfolioWork.map((_item) => (
-						<Col lg={4} key={index} className='d-flex mx-auto'>
-							<PortfolioCard
-								title={item.title}
-								img={item.img}
-								description={item.description}
-								url={item.url}
-							></PortfolioCard>
-						</Col>
-					))}
-				</Row>
-			</Container>
-		</>
-	);
+		 <h2 style={styles.heading}>Portfolio</h2>
+      <Container>
+        <Row>
+          {portfolioWork.map((item, index) => (
+            <Col lg={4} key={index} className='d-flex mx-auto'>
+              <PortfolioCard
+                title={item.title}
+                img={item.img}
+                description={item.description}
+                url={item.url}
+              />
+            </Col>
+          ))}
+        </Row>
+      </Container>
+    </>
+  );
 };
 
-export default Portfolio;
+export default Portfolio; 
