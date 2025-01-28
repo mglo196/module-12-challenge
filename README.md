@@ -44,15 +44,11 @@ SO THAT I can assess whether they're a good candidate for an open position
 2. Open project directory, then npm install to install all required dependencies 
 
 ## Usage
-1. install npm init -y to create a new .json file
-2. npm i
-3. npm i inquirer
-4. npm i mysql
-5. npm i console.table
-6. make sure to run .sql file in mySQL workbench before running server.js so that tables are able to render correctly
-7. run node server.js
-8. make sure server.js is connected to SQL before continuing
-9. run through prompts as required 
+1. predeploy with npm run build
+2. start with "react-scripts start"
+3. build with "react-scripts build"
+4. deploy to Netlify via Github
+5. share your Netlify link
 
 ## Repository and Deployed Application
 
