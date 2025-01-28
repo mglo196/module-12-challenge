@@ -5,22 +5,22 @@ import PortfolioCard from './Portfolio-Card';
 const Portfolio = () => {
 	const portfolioWork = [
 		{
-			title: 'Tech Blog',
-			img: 'https://user-images.githubusercontent.com/84214872/131430156-7dbf9d59-cff6-41e8-bab1-0675d560e25b.png',
-			description: 'Social Platform - Create and share blog posts.',
-			url: 'https://tech-blog-cms.herokuapp.com/',
+			title: 'Weather App',
+			img: 'https://github.com/mglo196/module-9-challenge/blob/main/Weather%20Dashboard.png',
+			description: 'Weather App - Find weather for given cities.',
+			url: 'https://module-9-challenge-62j9.onrender.com/',
 		},
 		{
-			title: 'Surf Spot',
+			title: 'README generator',
 			img: 'https://user-images.githubusercontent.com/84214872/139641887-3ccb90ae-68fa-44a3-9434-19e1fe972384.png',
-			description: 'Surf Community Application - Media Sharing Platform',
-			url: 'https://surf-spot.herokuapp.com/',
+			description: 'README generator - Creates personalized READMEs',
+			url: 'https://github.com/mglo196/module-7-challenge',
 		},
 		{
-			title: 'Book Search Engine',
-			img: 'https://user-images.githubusercontent.com/84214872/137649589-fa6a75ab-4420-429a-94f3-9644ce5398ef.png',
-			description: 'MERN Stack Book Search Application',
-			url: 'https://mern-stack-book-search-engine.herokuapp.com/',
+			title: 'Engine Base',
+			img: 'https://www.autoremarketing.com/wp-content/uploads/2019/09/motorcloud.png',
+			description: 'Car Database to Buy and Sell Cars',
+			url: ' https://enginebase-project2.onrender.com',
 		},
 	];
 
