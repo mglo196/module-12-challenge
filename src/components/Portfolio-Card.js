@@ -26,7 +26,7 @@ const PortfolioCard = ({ img, title, description, url }) => {
 			<a
 				href={url}
 				target='_blank'
-				rel='noreferrer'  {/* Added rel="noreferrer" */}
+				rel='noreferrer'  // Correctly added rel="noreferrer"
 				style={styles.text}
 				className='mx-auto my-4 d-flex'
 			>
@@ -49,3 +49,4 @@ const PortfolioCard = ({ img, title, description, url }) => {
 };
 
 export default PortfolioCard;
+
