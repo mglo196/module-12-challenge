@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mglo196/module-12-challenge/static/css/main.493ab538.css",
+    "main.js": "/mglo196/module-12-challenge/static/js/main.ef0dda52.js",
+    "static/media/bootstrap-icons.woff?": "/mglo196/module-12-challenge/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/mglo196/module-12-challenge/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Avatar.png": "/mglo196/module-12-challenge/static/media/Avatar.c576d9419e88bdd98e3f.png",
+    "index.html": "/mglo196/module-12-challenge/index.html",
+    "main.493ab538.css.map": "/mglo196/module-12-challenge/static/css/main.493ab538.css.map",
+    "main.ef0dda52.js.map": "/mglo196/module-12-challenge/static/js/main.ef0dda52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.493ab538.css",
+    "static/js/main.ef0dda52.js"
+  ]
+}
