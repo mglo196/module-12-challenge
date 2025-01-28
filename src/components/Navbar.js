@@ -20,7 +20,7 @@ const NavBar = ({ selectSection }) => {
 					href='#top'
 					style={styles.color}
 				>
-					Nicholas Cougan
+					Margaux Glovier
 				</Navbar.Brand>
 				<Navbar.Toggle aria-controls='basic-navbar-nav' />
 				<Navbar.Collapse id='basic-navbar-nav' className='flex-grow-0'>
@@ -54,8 +54,7 @@ const NavBar = ({ selectSection }) => {
 								selectSection('Resume');
 							}}
 							style={styles.color}
-							href='https://drive.google.com/file/d/15N3wlw1dxMHrappHGQzOvOTyRRSfTQNh/view?usp=sharing'
-							target='_blank'
+							href='https://drive.google.com/file/d/1sk1jIvqKeHKcZskTtz5CfbJjki25CUYN/view?usp=sharing'
 						>
 							Resume
 						</Nav.Link>
