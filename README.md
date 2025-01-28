@@ -9,7 +9,7 @@ Table of Contents
 - [Tech Used](#techused)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Repository and Walkthrough Video](#repositoryandwalkthroughvideo)
+- [Repository and Deployed Application](#repositoryanddeployedapplication)
 - [Contributions](#contributions)
 
 
@@ -60,8 +60,27 @@ SO THAT I can assess whether they're a good candidate for an open position
   - [Deployed Application](https://cerulean-truffle-12c6b4.netlify.app/)
 
 ## Contributions
-1. No front end files required.
-2. Use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
+Contributing
+
+    Please follow these steps to contribute:
+
+        Fork the repository.
+
+    Create a new branch for your feature or bug fix:
+
+        git checkout -b feature/YourFeatureName
+
+    Commit your changes:
+
+        git commit -am 'Add some feature'
+
+    Push to the branch:
+
+        git push origin feature/YourFeatureName
+
+    Submit a pull request detailing your changes.
+
+---
 
 
  
